@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 2cf613fc3a210a14bb50455420134240
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - explosion: {instanceID: 0}
+  - pipes: {instanceID: 0}
+  - pipeStart: {instanceID: 0}
+  - asteroid: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
